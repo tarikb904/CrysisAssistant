@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "164098265904",
+    "firebase_url": "https://crysisassistant.firebaseio.com",
+    "project_id": "crysisassistant",
+    "storage_bucket": "crysisassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164098265904:android:07d178e698fe7193",
+        "android_client_info": {
+          "package_name": "com.xinus.generic.crysisassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164098265904-t9jc4t13brcvphsahuub7fmipm5gtb3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xinus.generic.crysisassistant",
+            "certificate_hash": "26d2127316e0be859f578fa79531986637f2a90f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_oCGYfSY5-GHVErh2lhVB6YURpocANkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164098265904-o9664omrpqd1h2gg9ij3iq2rjpriqvml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
